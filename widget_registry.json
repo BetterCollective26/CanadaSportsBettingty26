@@ -53,5 +53,16 @@
     "created_at_utc": "2026-05-08 23:31:33 UTC",
     "bundle_path": "bundles/test123456csb.html.json",
     "has_bundle": true
+  },
+  "csb100526_test.html": {
+    "brand": "Canada Sports Betting",
+    "table_title": "Table 123456",
+    "file": "csb100526_test.html",
+    "pages_url": "https://bettercollective26.github.io/CanadaSportsBettingty26/csb100526_test.html",
+    "github_repo_url": "https://github.com/bettercollective26/CanadaSportsBettingty26",
+    "created_by": "gauthambc",
+    "created_at_utc": "2026-05-10 14:23:55 UTC",
+    "bundle_path": "bundles/csb100526_test.html.json",
+    "has_bundle": true
   }
 }
